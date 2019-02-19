@@ -29,6 +29,8 @@ orig %>%
   group_by(educ4) %>% 
   count()
 
+
+
 # Calcualte that those 79 were 11% of the sample.
 
 # Do the same two calculations for H.S. Grad or Less row.
